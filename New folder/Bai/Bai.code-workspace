@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../New folder/Bai"
+		},
+		{
+			"path": "../../../../IE2"
+		},
+		{
+			"path": "E:/InternetAndWeb"
+		},
+		{
+			"path": "../../../../IE"
+		},
+		{
+			"path": "../../../../F8Learn"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../React_Th2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IE"
+	}
+}
